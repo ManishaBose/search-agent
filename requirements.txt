@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+tavily-python
+langchain-tavily
+python-dotenv
+black
+isort
